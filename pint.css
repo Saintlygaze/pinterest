@@ -1,0 +1,748 @@
+/* for tablet */
+@media screen and (min-width:768px) and (max-width:951px){
+    
+}
+
+@media screen and (min-width:952px) {
+    body {
+        background-color: black;
+        width: 1500px;
+        height: 1100px;
+        top: -923px;
+        left: 37px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    
+    .nav-rec {
+        position: absolute;
+        width: 1490px;
+        height: 63px;
+        top: 18px;
+        left: 19px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        border: 1px solid #B1A592;
+    }
+    
+    .company {
+        position: absolute;
+        width: 282px;
+        height: 50px;
+        top: 5px;
+        left: 5px;
+        gap: 0px;
+        border-radius: 50px;
+        opacity: 0px;
+        background: #323025;
+    }
+    
+    .menu {
+        position: absolute;
+        width: 207px;
+        height: 50px;
+        top: 5px;
+        left: 530px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #B1A592;
+    }
+    
+    .events {
+        position: absolute;
+        width: 207px;
+        height: 50px;
+        top: 5px;
+        left: 743px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #B1A592;
+    }
+    
+    .contact {
+        position: absolute;
+        width: 207px;
+        height: 50px;
+        top: 5px;
+        left: 1270px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #B1A592;
+    }
+    
+    .contact-text {
+        position: absolute;
+        width: 64px;
+        height: 29px;
+        top: 7px;
+        left: 70px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #B1A592;
+    
+    }
+    
+    .events-text {
+        position: absolute;
+        width: 64px;
+        height: 29px;
+        top: 7px;
+        left: 75px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #B1A592;
+    }
+    
+    .menu-text {
+        position: absolute;
+        width: 64px;
+        height: 29px;
+        top: 7px;
+        left: 75px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #B1A592;
+    
+    }
+    
+    .collections {
+        position: absolute;
+        width: 236px;
+        height: 50px;
+        top: 5px;
+        left: 290px;
+        gap: 0px;
+        border-radius: 50px;
+        opacity: 0px;
+    
+        background: #B1A592;
+    }
+    
+    .company-text {
+        position: absolute;
+        width: 108px;
+        height: 29px;
+        top: 7px;
+        left: 80px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #B1A592;
+    }
+    
+    .collections-text {
+        position: absolute;
+        width: 108px;
+        height: 29px;
+        top: 7px;
+        left: 60px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .sq1 {
+        position: absolute;
+        width: 667px;
+        height: 980px;
+        top: 99px;
+        left: 35px;
+        gap: 0px;
+        border-radius: 30px;
+        opacity: 0px;
+    
+        background: #DFD6C5;
+    }
+    
+    .smol-sq {
+        position: absolute;
+        width: 207px;
+        height: 34px;
+        top: 50px;
+        left: 30px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #323025;
+    }
+    
+    .smol-sq2 {
+        position: absolute;
+        width: 207px;
+        height: 34px;
+        top: 50px;
+        left: 30px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #323025;
+    }
+    
+    
+    
+    .smoltext2 {
+        position: absolute;
+        width: 146px;
+        height: 24px;
+        top: 5px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 24.2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #323025;
+    }
+    
+    .smoltext4 {
+        position: absolute;
+        width: 146px;
+        height: 24px;
+        top: 5px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 24.2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #323025;
+    }
+    
+    .smol-text {
+        position: absolute;
+        width: 146px;
+        height: 24px;
+        top: 5px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 24.2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #323025;
+    }
+    
+    
+    
+    .smol-heading {
+        position: absolute;
+        width: 271px;
+        height: 29px;
+        top: 95px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 29.05px;
+        text-align: left;
+        text-decoration-line: underline;
+        text-decoration-style: solid;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .smol-heading2 {
+        position: absolute;
+        width: 271px;
+        height: 29px;
+        top: 100px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 29.05px;
+        text-align: left;
+        text-decoration-line: underline;
+        text-decoration-style: solid;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .sq1-img {
+        position: absolute;
+        width: 631px;
+        height: 730px;
+        top: 140px;
+        left: 17px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+    }
+    
+    .line1 {
+        position: absolute;
+        width: 666px;
+        height: 0px;
+        top: 915px;
+        left: 2px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #333333
+    }
+    
+    .getstarted {
+        position: absolute;
+        width: 133px;
+        height: 29px;
+        top: 930px;
+        left: 20px;
+        gap: 0px;
+        opacity: 0px;
+    
+    
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    /* .arrow {
+        position: absolute;
+        width: 25px;
+        height: 0px;
+        top: 930px;
+        left: 50px;
+        gap: 0px;
+        border: 2px 0px 0px 0px;
+        opacity: 0px;
+        angle: -0 deg;
+    
+        border: 2px solid #323025;
+    } */
+    
+    .arrow {
+        position: absolute;
+        width: 25px;
+        height: 0px;
+        top: 940px;
+        left: 620px;
+        gap: 0px;
+    }
+    
+    .sq2 {
+        position: absolute;
+        width: 780px;
+        height: 356px;
+        top: 99px;
+        left: 719px;
+        gap: 0px;
+        border-radius: 30px;
+        opacity: 0px;
+    
+        background-color: #8E886D;
+    }
+    
+    .smolpara {
+        position: absolute;
+        width: 382px;
+        height: 72px;
+        top: 150px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24.2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+    }
+    
+    .sq2img {
+        position: absolute;
+        width: 400px;
+        height: 235px;
+        top: 30px;
+        left: 390px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+    }
+    
+    .sq2imgin {
+        position: absolute;
+        width: 350px;
+        height: 235px;
+        top: 2px;
+        left: 30px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+    }
+    
+    .line2 {
+        position: absolute;
+        width: 780px;
+        height: 0px;
+        top: 300px;
+        left: 1px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #333333;
+    }
+    
+    .getstarted2 {
+        position: absolute;
+        width: 194px;
+        height: 29px;
+        top: 310px;
+        left: 50px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .arrow2 {
+        position: absolute;
+        width: 36px;
+        height: 0px;
+        top: 315px;
+        left: 700px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    
+    .sq3 {
+        position: absolute;
+        width: 405px;
+        height: 600px;
+        top: 480px;
+        left: 729px;
+        gap: 0px;
+        border-radius: 30px;
+        opacity: 0px;
+    
+        background-color: #916E58;
+    }
+    
+    .sq3img {
+        position: absolute;
+        width: 385px;
+        height: 168px;
+        top: 10px;
+        left: 10px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+    
+    }
+    
+    .sq3text {
+        position: absolute;
+        width: 304px;
+        height: 59px;
+        top: 190px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 43.57px;
+        text-align: left;
+        text-decoration-line: underline;
+        text-decoration-style: solid;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .sq3para {
+        position: absolute;
+        width: 382px;
+        height: 216px;
+        top: 260px;
+        left: 1px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24.2px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .line3 {
+        position: absolute;
+        width: 404.39px;
+        height: 0px;
+        top: 535px;
+        left: 1px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #333333;
+    }
+    
+    .getstarted3 {
+        position: absolute;
+        width: 239px;
+        height: 17px;
+        top: 550px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .arrow3 {
+        position: absolute;
+        width: 20px;
+        height: 0px;
+        top: 560px;
+        left: 350px;
+        gap: 0px;
+    }
+    
+    .sq4 {
+        position: absolute;
+        width: 350px;
+        height: 597px;
+        top: 480px;
+        left: 1161px;
+        gap: 0px;
+        border-radius: 30px;
+        opacity: 0px;
+    
+        background-color: #B1A48E;
+    }
+    
+    .smolsq4 {
+        position: absolute;
+        width: 207px;
+        height: 34px;
+        top: 40px;
+        left: 20px;
+        gap: 0px;
+        border-radius: 50px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #323025;
+    }
+    
+    .sq4img {
+        position: absolute;
+        width: 113px;
+        height: 113px;
+        top: 50px;
+        left: 230px;
+        gap: 0px;
+        border-radius: 30000px 0px 0px 0px;
+        opacity: 0px;
+    }
+    
+    .sq4text {
+        position: absolute;
+        width: 304px;
+        height: 59px;
+        top: 100px;
+        left: 20px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 43.57px;
+        text-align: left;
+        text-decoration-line: underline;
+        text-decoration-style: solid;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .sq4para {
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        top: 170px;
+        left: 10px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 24.2px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .line4 {
+        position: absolute;
+        width: 350px;
+        height: 0px;
+        top: 534px;
+        left: 0px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+    
+        border: 1px solid #333333;
+    }
+    
+    .getstartedhere {
+        position: absolute;
+        width: 239px;
+        height: 17px;
+        top: 550px;
+        left: 30px;
+        gap: 0px;
+        opacity: 0px;
+    
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 29.05px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    
+        color: #333333;
+    }
+    
+    .arrow4 {
+        position: absolute;
+        width: 20px;
+        height: 0px;
+        top: 560px;
+        left: 290px;
+        gap: 0px;
+        opacity: 0px;
+    
+    
+    }
+}
